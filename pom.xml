@@ -47,7 +47,7 @@
     </dependency>
 
     <dependency>
-      <groupId>jpaxos</groupId>
+      <groupId>Jpaxos</groupId>
       <artifactId>jpaxos</artifactId>
       <version>1.0</version>
   </dependency>

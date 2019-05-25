@@ -1,10 +1,10 @@
 package raas.r3lib.communication;
 
-public abstract class ConsensusProxy {
+public abstract class BaseProxy {
 
     private final int paxosClientId;
 
-    public ConsensusProxy(int id) {
+    public BaseProxy(int id) {
         this.paxosClientId = id;
     }
 
