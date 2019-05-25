@@ -1,0 +1,3 @@
+[submodule "lib/JPaxos"]
+	path = lib/JPaxos
+	url = https://github.com/JPaxos/JPaxos.git
