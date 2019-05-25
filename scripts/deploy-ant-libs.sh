@@ -19,3 +19,4 @@ do
         done
     fi
 done
+cd $BASE

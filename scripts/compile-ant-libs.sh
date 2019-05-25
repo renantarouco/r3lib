@@ -1,5 +1,6 @@
 #!/bin/sh
-LIB_BASE=$(pwd)/lib
+BASE=$(pwd)
+LIB_BASE=$BASE/lib
 cd $LIB_BASE
 for lib_name in *
 do
@@ -9,3 +10,4 @@ do
         ant jar
     fi
 done
+cd $BASE
