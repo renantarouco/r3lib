@@ -1,3 +1,4 @@
+#!/bin/sh
 LIB_BASE=$(pwd)/lib
 cd $LIB_BASE
 for lib_name in *

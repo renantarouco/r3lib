@@ -1,3 +1,4 @@
+#!/bin/sh
 BASE=$(pwd)
 LIB_BASE=$BASE/lib
 cd $LIB_BASE
