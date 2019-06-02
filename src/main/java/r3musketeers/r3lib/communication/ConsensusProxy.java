@@ -1,4 +1,4 @@
-package raas.r3lib.communication;
+package r3musketeers.r3lib.communication;
 
 public abstract class ConsensusProxy {
 

@@ -1,4 +1,4 @@
-package raas.r3lib;
+package r3musketeers.r3lib;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

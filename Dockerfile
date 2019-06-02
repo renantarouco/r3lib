@@ -1,6 +1,6 @@
 FROM maven:alpine
 
-WORKDIR /home/r3lib
+WORKDIR /home/r3musketeers/r3lib
 COPY lib lib
 COPY scripts scripts
 COPY src src
